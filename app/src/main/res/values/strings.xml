@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">lab 4</string>
+    <string name="name">Full name:</string>
+    <string name="edit">Edit</string>
+    <string name="address">Address:</string>
+    <string name="comment">Comment:</string>
+    <string name="edit_name">Edit your name</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="last_name">Last Name:</string>
+    <string name="country">Country:</string>
+    <string name="city">City:</string>
+    <string name="validation_title">Fill in all the fields</string>
+    <string name="exit">Exit</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="exit_confirmation">Are you sure you want to exit?</string>
+    <string name="cancel_confirmation">Are you sure you want to exit, all entered data will not be saved?</string>
+    <string name="confirmation_yes">Yes</string>
+    <string name="confirmation_no">No</string>
+    <string name="toast_message">Changes were not applied</string>
+</resources>

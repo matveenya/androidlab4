@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">лаб 4</string>
+    <string name="name">Имя:</string>
+    <string name="edit">Редактировать</string>
+    <string name="address">Адрес:</string>
+    <string name="comment">Комментарий:</string>
+    <string name="edit_name">Измените ваше имя</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Закончить</string>
+    <string name="last_name">Фамилия:</string>
+    <string name="country">Страна:</string>
+    <string name="city">Город:</string>
+    <string name="validation_title">Заполните все поля</string>
+    <string name="exit">Выйти</string>
+    <string name="confirmation">Подтверждение</string>
+    <string name="exit_confirmation">Вы уверены что хотите выйти?</string>
+    <string name="cancel_confirmation">Вы уверены что хотите выйти, все введенные данные будут не сохранены?</string>
+    <string name="confirmation_yes">Да</string>
+    <string name="confirmation_no">Нет</string>
+    <string name="toast_message">Изменения не были применены</string>
+</resources>
